@@ -7,6 +7,8 @@
   margin: 0 auto;
   /* выше для экранов больше 1600px отцентрировали весь контент */
   font-family: 'Helvetica Neue', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
 }
 
 .header {
@@ -15,7 +17,11 @@
   max-height: 756px;
   /* выше установили ограничения для секции */
 }
-
+.header__logo_header {
+  display: flex;
+  margin-top: 30px;
+  margin-left: 64px;
+}
 /* ниже мы привели пример двух селекторов, чтобы вы вспомнили запись элемента */
 .header__square-pic {
   height: 568px;
