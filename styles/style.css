@@ -297,13 +297,13 @@
   display: flex;
   flex-direction: column;
 }
-.footer__social-icon-link {
+.footer__social-icon {
   line-height: 30px;
   font-size: 18px;
   font-weight: 400;
   text-decoration: none;
   color: #fff;
 }
-.footer__social-icon {
+.footer__social-icon-image {
   margin: 0 10px 0 0;
 }
