@@ -143,7 +143,7 @@
 }
 .feynman {
   padding: 100px 0 0;
-  background-color: #f2f2f2; 
+  background-color: #f2f2f2;
   position: relative;
   height: 790px;
 }
@@ -257,7 +257,7 @@
   justify-content: space-between;
 
 }
-.footer__column_copyright {
+.footer__column_content_copyright {
   display: flex;
   flex-direction: column;
   flex-basis: 711px;
@@ -275,7 +275,7 @@
   color: #fff;
   margin: 18px 0;
 }
-.footer__content_info {
+.footer__column_content_info {
   display: flex;
   flex-direction: column;
 }
@@ -305,5 +305,5 @@
   color: #fff;
 }
 .footer__social-icon_icon {
-  margin: 0 16px 0 0;
+  margin: 0 10px 0 0;
 }
