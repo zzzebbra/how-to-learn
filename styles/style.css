@@ -228,7 +228,9 @@
   position: absolute;
   top: 0px;
   right: -210px;
-  background-image: url(/images/kaufman-triangle.svg);
+  /* background-color: #fff; */
+  background-image: url(../images/kaufman-triangle.svg);
+  background-size: contain;
 }
 .footer {
   background-color: #1f1f1f;
