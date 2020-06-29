@@ -1,0 +1,10 @@
+.footer__column-link {
+    line-height: 30px;
+    font-size: 18px;
+    font-weight: 400;
+    color: #fff;
+    text-decoration: none;
+  }
+  .footer__column-link:hover {
+    color: skyblue;
+  }
