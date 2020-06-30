@@ -3,6 +3,7 @@
 @import url("./__main-illustration/header__main-illustration.css");
 @import url("./__link/header__link.css");
 @import url("./__square-pic/header__square-pic.css");
+@import url("./__square-pic_rotation/header__square-pic_rotation.css");
 .header {
     height: 100vh;
     min-height: 600px;
@@ -13,4 +14,5 @@
     flex-direction: column;
     justify-content: center;
     margin: 0;
+    overflow: hidden;
   }
