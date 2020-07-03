@@ -6,5 +6,6 @@
     text-decoration: none;
   }
   .footer__column-link:hover {
-    color: skyblue;
+    opacity: 50%;
+    transition-duration: 0.3s;
   }

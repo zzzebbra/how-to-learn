@@ -4,4 +4,9 @@
     font-weight: 400;
     text-decoration: none;
     color: #2f80ed;
+    min-height: 30px;
+}
+.khan__byu-link:hover {
+    opacity: 50%;
+    transition-duration: 0.3s;
 }

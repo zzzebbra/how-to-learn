@@ -10,5 +10,6 @@
     z-index: 1;
   }
   .feynman__link:hover {
-    color: skyblue;
+    opacity: 50%;
+    transition-duration: 0.3s;
   }
